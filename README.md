@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12870986/94659227-876b3700-0336-11eb-984b-f2c8fccc131e.png">
+</p>
+
+
+:star: Star us on GitHub — it helps!
+
 # Smovie - CLI personal movie recommender - Beta version ( not complete yet)
 
-* This is a CLI application that suggests movies from the IMDB database based on the inputs you give to him.
+- This is a CLI application that suggests movies from the IMDB database based on the inputs you give to him.
 
 A CLI program to suggest movies based on the IMDB.
-
-
 
 ## Getting Started
 
@@ -62,10 +67,10 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Click](https://palletsprojects.com/p/click/) - The CLI library
-* [PyInquirer](https://github.com/CITGuru/PyInquirer) - Interactive CLI
-* [Pandas](https://pandas.pydata.org/docs/) - To Manuplate the IMDB database
-* [IMDbPY](https://imdbpy.github.io/) - Only used to generate movie summary based on the ID
+- [Click](https://palletsprojects.com/p/click/) - The CLI library
+- [PyInquirer](https://github.com/CITGuru/PyInquirer) - Interactive CLI
+- [Pandas](https://pandas.pydata.org/docs/) - To Manuplate the IMDB database
+- [IMDbPY](https://imdbpy.github.io/) - Only used to generate movie summary based on the ID
 
 ## Contributing
 
@@ -73,15 +78,10 @@ Add additional notes about how to deploy this on a live system
 
 coming soon
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Mo Salam** - [Mo Salam](https://github.com/m7salam)
-
+- **Mo Salam** - [Mo Salam](https://github.com/m7salam)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
