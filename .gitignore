@@ -96,3 +96,4 @@ sw.*
 venv
 
 movie-db
+__pycache__
