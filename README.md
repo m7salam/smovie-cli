@@ -4,7 +4,7 @@
 
 :star: Star us on GitHub — it helps!
 
-# Smovie - CLI personal movie recommender - Beta version ( not complete yet)
+# Smovie - CLI personal movie recommender - Beta version
 
 - This is a CLI application that suggests movies from the IMDB database based on the inputs you give to him.
 
